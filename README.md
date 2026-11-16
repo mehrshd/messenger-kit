@@ -20,7 +20,7 @@
 
   <img src="https://img.shields.io/badge/MongoDB-Message%20Storage-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-  <img src="https://img.shields.io/badge/npm-1.1.0-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+  <img src="https://img.shields.io/badge/npm-1.1.1-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 
 </p>
 
