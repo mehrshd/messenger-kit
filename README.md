@@ -1,12 +1,29 @@
-# ⚡ Messenger Kit
+<div align="center">
 
+<h1>
+  <img src="https://img.shields.io/badge/◈-8B5CF6?style=for-the-badge&labelColor=171329" />
+  MESSENGER KIT
+</h1>
 
-
-<p align="center">
-
-  <strong>A TypeScript Messaging Backend & Client SDK</strong>
-
+<p>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/BACKEND_%26_CLIENT_SDK-211A38?style=for-the-badge" />
 </p>
+
+<br/>
+
+<h3>A TypeScript Messaging Backend & Client SDK</h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILT_FOR_MODERN_MESSAGING-8B5CF6?style=for-the-badge&labelColor=171329" />
+
+<p>
+  Build messaging applications<br/>
+  on top of a structured backend foundation.
+</p>
+
+</div>
 
 
 
@@ -25,12 +42,19 @@
 </p>
 
 
+<div align="center">
 
-<p align="center">
+![BETA BUILD](https://img.shields.io/badge/🚧_BETA_BUILD-FFF0B3?style=for-the-badge&labelColor=E5A000)
 
-  <em>Build messaging applications on top of a structured backend foundation.</em>
+![UNDER ACTIVE TESTING](https://img.shields.io/badge/UNDER_ACTIVE_TESTING-FCE4EC?style=flat-square&color=FCE4EC)
 
-</p>
+![Debugging](https://img.shields.io/badge/⚙️_Debugging-E8DDFB?style=flat-square)
+![Integration Testing](https://img.shields.io/badge/🧪_Integration_Testing-DCEBFF?style=flat-square)
+![Improvements](https://img.shields.io/badge/🔧_Improvements-D9F5E5?style=flat-square)
+
+**⚡ Building • Testing • Refining**
+
+</div>
 
 
 
